@@ -5,4 +5,4 @@ This is a simple banking system application developed using SQL for database man
 ⚙️ Technologies Used:
 SQL (Database Management)
 Python (Backend Logic)
-SQLite/MySQL/PostgreSQL (Depending on choice)
+MySQL (Depending on choice)
